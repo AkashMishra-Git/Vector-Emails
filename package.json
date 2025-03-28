@@ -4,6 +4,8 @@
   "description": "Server for Vector Emails",
   "main": "server.js",
   "scripts": {
+    "predev": "npm install",
+    "prebuild": "npm install",
     "start": "node server.js"
   },
   "dependencies": {
