@@ -75,7 +75,11 @@ _Replace **/path/to/server.js** with the actual path._
 #### 3. Enable and Start It
 ```
 sudo systemctl daemon-reload
+```
+```
 sudo systemctl enable vector-server
+```
+```
 sudo systemctl start vector-server
 ```
 #### 4. Check STatus
