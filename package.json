@@ -1,7 +1,7 @@
 {
   "name": "vector-server",
   "version": "1.0.0",
-  "description": "Server for Vector Help Center",
+  "description": "Server for Vector Emails",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
